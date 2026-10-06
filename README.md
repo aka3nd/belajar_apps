@@ -1,1 +1,1 @@
-# belajar_apps
+# belajar membuat apps sederhana
